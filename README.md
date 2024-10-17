@@ -1,7 +1,5 @@
 # AI热量仪
 
-![icon](https://github.com/mouseDuan/AICalorie/blob/422b2e3bf79efff17546ae37735264fd668dbcf0/300.png?raw=true)
-
 <img src="https://github.com/mouseDuan/AICalorie/blob/422b2e3bf79efff17546ae37735264fd668dbcf0/300.png?raw=true" width="100" height="100">
 
 ## 轻松识别食物热量，健康生活从此开始！
