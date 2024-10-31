@@ -1,6 +1,8 @@
+# Privacy Policy
+
 This app respects and protects the privacy of all users who use its services. In order to provide you with more accurate and personalized services, this app will use and disclose your personal information in accordance with this privacy policy. However, the app will treat this information with the utmost care and diligence. Unless otherwise provided in this privacy policy, the app will not disclose or provide this information to third parties without your prior consent. The app will periodically update this privacy policy. By agreeing to the terms of service of this app, you agree to the entire content of this privacy policy. This privacy policy is an integral part of the terms of service of this app. 
 
-1. Scope of Application 
+## 1. Scope of Application 
 
 (a) The name and date of birth information collected by this app is used solely for calculating the horoscope and will not be stored on either the client or server side. 
 
@@ -17,7 +19,7 @@ You understand and agree that the following information is not subject to this P
 (c) Violations of laws or regulations, or actions that violate these Terms of Service and any measures we have taken against you. 
 
 
-2. Use of Information 
+## 2. Use of Information 
 
 (a) This app will not provide, sell, lease, share, or trade your personal information to any unaffiliated third party unless it has your prior consent or the third party and the app (including its affiliated companies) are providing services to you and are prohibited from accessing, including any previously accessible information, once the service is completed. 
 
@@ -26,7 +28,7 @@ You understand and agree that the following information is not subject to this P
 (c) In order to serve its users, this app may use your personal information to provide you with information that you may be interested in, including but not limited to sending you information about products and services, or sharing your information with its partners so that they can send you information about their products and services (the latter requires your prior consent). 
 
 
-3. Disclosure of Information 
+## 3. Disclosure of Information 
 
 In the following situations, the app will disclose your personal information in full or in part based on your personal preference or the provisions of the law: 
 
@@ -45,12 +47,12 @@ In the following situations, the app will disclose your personal information in 
 (g) Other disclosures deemed appropriate by this app under applicable law, regulation, or website policy. 
 
 
-4. Information Storage and Exchange 
+## 4. Information Storage and Exchange 
 
 The information and data collected by this app will not be stored on the servers of this app or its affiliated companies. 
 
 
-5. Use of Cookies 
+## 5. Use of Cookies 
 
 (a) If you do not reject the acceptance of cookies, this app will set or retrieve cookies on your computer so that you can log in or use platform services or functions that depend on cookies. This app uses cookies to provide you with more considerate personalized services, including promotional services. 
 
@@ -59,14 +61,14 @@ The information and data collected by this app will not be stored on the servers
 (c) Any information obtained through the cookies set by this app will be subject to this policy. 
 
 
-6. Information Security 
+## 6. Information Security 
 
 (a) All accounts in this app have security protection features. Please keep your username and password information secure. The app will ensure that your information is not lost, misused, or altered through encryption of your password and other security measures. Despite these security measures, please note that there is no "perfect security" on information networks. 
 
 (b) When using our network service for online transactions, you may inevitably disclose your personal information to the other party or potential transaction party, such as your contact information or mailing address. Please take good care of your personal information and provide it to others only when necessary. If you find that your personal information, especially your account name and password, has been leaked, please contact our customer service immediately so that we can take appropriate measures. 
 
 
-7.Changes to this Privacy Policy 
+## 7.Changes to this Privacy Policy 
 
 (a) If we decide to change our privacy policy, we will post these changes on this policy, our website, and in other appropriate places so that you can understand how we collect, use, and share your personal information, who has access to this information, and under what circumstances we may disclose this information. 
 
